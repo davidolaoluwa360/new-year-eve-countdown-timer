@@ -2,7 +2,8 @@
 <p>New Year CountDown timer is a simple javascript application that visualize or count the day to new Eves</p>
 
 <h2>Neat Interface</h2>
-<img src="eve-image.PNG" align="center"><br/>
+<img src="./images/eve-image.PNG" align="center">
+<br/>
 
 <h2>Usage</h2>
 <p>Git Clone: To clone the current Repository</p>
